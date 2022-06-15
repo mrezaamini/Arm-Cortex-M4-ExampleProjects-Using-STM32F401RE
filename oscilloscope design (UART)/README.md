@@ -18,9 +18,9 @@ In our sampling part: we need to use ADC for sampling and conduct some operation
 - 4 : B--
 - 5 : time shifting (t++)
 - 6 : time shifting (t--)
-  (our samoling rate is 100KHz)
- <br>
+  (our sampling rate is 100KHz)
 
+ <br>
 <img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/oscilloscope%20design%20(UART)/display.png" alt="screenshot" width="500"/>
 
 In our display part: we have 2 buffers for our channels (one for last frame and one for this frame) and we will display recieved data on GLCD.
