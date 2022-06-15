@@ -13,3 +13,5 @@ In this project we used :
 - red & green LEDs
 
 (this project is implemented with CMSIS-Core)
+<br>
+![project screenshot](/src.png "prj screenshot")
