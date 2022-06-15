@@ -11,4 +11,4 @@ finally if you press and hold thirsd button for 3 seconds timer will turn off an
 
 (this project is implemented with CMSIS-Core)
 
-<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/GPIO%20interrupts%20%26%20LCD/src.png" alt="screenshot" width="500"/>
+<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/Microcontroller%20Timer%20%26%20Counter/src.png" alt="screenshot" width="500"/>
