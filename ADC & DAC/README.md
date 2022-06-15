@@ -19,4 +19,4 @@ In this project we made a systam that use 2 ADC channels. With one of them it wi
 - Danger : if temp is higher than 45 degree (red LED blinking) and you have 500ms to press second button (that is responsible for cooling)
 - Cooling : second button is pushed and you have 2s to get the temp lower than 35 degree if not, system will turn off and red LED will blink fo 500 ms (third button is responsible for restarting the system)
 
-<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/Microcontroller%20Timer%20%26%20Counter/src.png" alt="screenshot" width="500"/>
+<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/ADC%20%26%20DAC/src.png" alt="screenshot" width="500"/>
