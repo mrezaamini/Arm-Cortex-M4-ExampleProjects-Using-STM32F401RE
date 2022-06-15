@@ -14,4 +14,4 @@ In this project we used :
 
 (this project is implemented with CMSIS-Core)
 
-<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/Introduction%20to%20GPIO%20and%20seven%20segment%20/src.png" alt="screenshot" width="500"/>
+<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/GPIO%20interrupts%20%26%20LCD/src.png" alt="screenshot" width="500"/>
