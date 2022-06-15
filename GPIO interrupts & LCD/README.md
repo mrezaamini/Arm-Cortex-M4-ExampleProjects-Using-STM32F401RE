@@ -1,17 +1,13 @@
-# Introduction to GPIO and using seven segment :
+# GPIO interrupts & working with LCD :
 
-In this project we assume that emergency centers have a control system for traffic lights that operates with 2 buttons:
+This project contains:
 
-- first button : changing traffic light's color from red to green.
-- second button : stops the counter.
+- STM32F401RE microcontroller
+- 2x16 character LCD (LM016l)
+- 4x4 keypad
+- 2 push buttons
 
-In this project we used :
-
-- STM32F401RE
-- 2 push-buttons
-- seven segment mux-2 red
-- red & green LEDs
-
+In this project we made a personalized calculator that show our names in the first line and get/show calculations in second line. with pushing buttons result will get increamented/decreamented by 1.
 (this project is implemented with CMSIS-Core)
 
-<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/GPIO%20interrupts%20%26%20LCD/src.png" alt="screenshot" width="500"/>
+<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/Introduction%20to%20GPIO%20and%20seven%20segment%20/src.png" alt="screenshot" width="500"/>
