@@ -12,4 +12,4 @@ There are 4 LEDs with different colors and in different time periods one of the 
 
 (this project is implemented with HAL)
 
-<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/HAL%20GPIO%20%26%20Timers/src.png" alt="screenshot" width="500"/>
+<img src="https://github.com/mrezaamini/Arm-Cortex-M4-ExampleProjects-Using-STM32F401RE/blob/main/PWM%20%26%20Input%20capture/src.png" alt="screenshot" width="500"/>
