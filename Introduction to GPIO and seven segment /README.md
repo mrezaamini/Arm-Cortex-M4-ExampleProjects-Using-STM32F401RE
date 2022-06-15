@@ -14,4 +14,4 @@ In this project we used :
 
 (this project is implemented with CMSIS-Core)
 <br>
-![project screenshot](/src.png "prj screenshot")
+![project screenshot](/src.png)
